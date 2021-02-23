@@ -1,2 +1,2 @@
 # 100daysofcode
-Contains the work of 100 days of code 
+Contains the work I made in challenge taken #100 days of code 
