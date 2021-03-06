@@ -21,6 +21,8 @@ form {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 form input,
@@ -47,6 +49,8 @@ form button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .todo-list {
